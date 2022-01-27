@@ -1,0 +1,35 @@
+body {
+    background-color: #330210
+}
+h2, p {
+    text-align: center;
+    color: #ffffff;
+}
+
+.navbar a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Highlight links on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .FAQs {
+      border: 1px solid #ffffff;
+      border-radius: 12px;
+      margin-top: 50px;
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+
+  .heading {
+      text-align: center;
+      color: #ffffff;
+  }

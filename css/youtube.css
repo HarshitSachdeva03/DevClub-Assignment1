@@ -1,0 +1,32 @@
+/* Links inside the navigation bar */
+.navbar a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  
+  }
+  
+  /* Higlighting links on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+
+  body {
+      background-color: #330210
+  }
+  .heading {text-align: center;
+color: lawngreen;font-size: 40px;}
+#link {
+   margin-left: 450px;
+font-size: 40px;
+color: sandybrown;}
+.heading {
+    text-align: center;
+    color: #ffffff;
+}
+#video {margin-left: 470px;}

@@ -1,0 +1,62 @@
+  
+  /* Links inside the navigation bar */
+  .navbar a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  
+  }
+  
+  /* Higlighting links on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+
+  body {
+      background-color: #330210
+  }
+
+  .Text2 {
+    position: absolute;
+    width: 943px;
+    height: 234px;
+    left: 85px;
+    top: 300px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 117px;
+    
+    color: #FFFFFF;
+  }
+
+  .Text1 {
+    position: absolute;
+    width: 1195px;
+    height: 118px;
+    left: 85px;
+    top: 200px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #E8AFCE;
+  }
+
+  .imgClass {
+    position: absolute;
+    right: 1%;
+    bottom: 5%; 
+    max-width: 20%;  
+    height: auto;  
+  }
