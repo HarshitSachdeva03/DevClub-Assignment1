@@ -24,14 +24,12 @@
     color: #ffffff;
 }
 .about {
-    margin-top: 50px;
-    margin-left: 140px;
-    position: absolute;
-    width: 1100px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    width: auto;
     height: 200px;
-    left: 74px;
-    
-
+    padding-left: 2%;
     background: #d6c1c1;
     border: 1px solid #e0f803;
     box-sizing: border-box;
